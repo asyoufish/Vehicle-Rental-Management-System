@@ -28,8 +28,6 @@
             var vehiclesQuery = from vehicle in vehicles
                                 select vehicle;
 
-            Console.WriteLine("ASSIGNMENT-1 by TSZ FUNG CHAN");
-
             int input = 0;
 
             while (input != 6)
